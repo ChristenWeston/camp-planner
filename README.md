@@ -120,11 +120,11 @@ _You will need to make an account and get an API key. The Free Trial version of 
 
 - _Run the command `$ npm run start` to launch on a browser._
 
-## Additional Setup/Installation Note for Windows Users
+## Additional Setup/Installation Note for Mac Users
 
-This environment was created on a Mac. For it to work properly in your local environment make the following change:
+This environment was created on a Windows machine. For it to work properly in your local environment make the following change:
 
-- _Update package.json, line 8 to: "start": "npm run build & webpack-dev-server --open --mode development"_
+- _Update package.json, line 8 to: "start": "npm run build, webpack-dev-server --open --mode development"_
 
 ## Known Bugs
 
